@@ -8,7 +8,6 @@ This project implements an AI agent that plays the classic game of Tic-Tac-Toe a
 
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [AI Algorithms](#ai-algorithms)
 
@@ -23,25 +22,7 @@ Before you begin, ensure you have the following prerequisites:
 
 - Python (3.6 or higher) installed on your system.
 
-## Getting Started
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-ai.git
-   ```
-
-2. Change your working directory to the project folder:
-
-   ```bash
-   cd tic-tac-toe-ai
-   ```
-
-3. Run the game script:
-
-   ```bash
-   python tic_tac_toe.py
-   ```
 
    The game will start, and you can play against the AI opponent.
 
